@@ -12,7 +12,7 @@ SPARCS |웹 및 앱 서비스 | https://sparcs.org/
 에코노베이션 | 프로젝트(웹, 앱, 게임, AI)| https://econovation.kr/about
 SCG | 대학 사이트 및 시스템 컨설팅, 웹개발, 인프라 | https://scg.skku.ac.kr/ 
 ASC | 정보보안 | https://ssu-asc.github.io/
-DeepIntoDeep | 정보보안 | 
+DeepIntoDeep | 인공지능 | 
 CAUtion | 컴퓨터 보안| https://bit.ly/3PvgBIL
 YBIGTA | 빅데이터, 딥러닝, 데이터 분석 | https://bit.ly/3RgOpvq
 K-개러지 | 수학적 알고리즘, 머신러닝, 고속 프로그래밍 | https://bit.ly/3QwZBmj
